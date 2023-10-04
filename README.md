@@ -11,3 +11,7 @@ A third-year computer engineering student, passionate about technologies related
 
 ### 🗄️ Backend
 <img src="https://www.svgrepo.com/download/354238/python.svg" width="100px">   <img src="https://www.svgrepo.com/download/330413/fastapi.svg" width="100px">   <img src="https://www.svgrepo.com/download/373931/node2.svg" width="100px">   <img src="https://www.svgrepo.com/download/354090/mongodb.svg" width="100px">   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="100px"> 
+
+<!---
+![Claudia's github stats](https://github-readme-stats.vercel.app/api?username=ClaudiaQueipo)
+-->
