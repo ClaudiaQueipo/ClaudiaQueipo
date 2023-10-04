@@ -5,9 +5,9 @@ A third-year computer engineering student, passionate about technologies related
 
 ## 💡 Skills 💪
 ### 🎨 Frontend
-![html](https://camo.githubusercontent.com/b9fe9f8e52c6fd30d814c24f3eb71cb09d7f5bc82d7f67a384055de93fdbb0bf/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352d2d76312e706e67)
-![CSS](https://camo.githubusercontent.com/dc75aee770dff630309493116eeebd6a39c7042e4e94780a5e6c8f107bebe76f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f637373332e706e67)
-![JavaScript](https://camo.githubusercontent.com/84c2586aa67309f6fa224fdf5fdf33a633239375397a8e753ac1e7cc727f5458/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742d2d76312e706e67)
-
+<img src="https://www.svgrepo.com/download/452228/html-5.svg" width="100px"> <img src="https://www.svgrepo.com/download/452185/css-3.svg" width="100px">
+<img src="https://www.svgrepo.com/download/452045/js.svg" width="100px">
+<img src="https://www.svgrepo.com/download/452092/react.svg" width="100px">
 
 ### 🗄️ Backend
+<img src="https://www.svgrepo.com/download/354238/python.svg" width="100px">   <img src="https://www.svgrepo.com/download/330413/fastapi.svg" width="100px">   <img src="https://www.svgrepo.com/download/373931/node2.svg" width="100px">   <img src="https://www.svgrepo.com/download/354090/mongodb.svg" width="100px">   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="100px"> 
