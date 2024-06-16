@@ -1,7 +1,7 @@
 # I'm Claudia Queipo
 A third-year computer engineering student, passionate about technologies related to web and mobile development. I'm constantly learning about the latest trends and I love contributing to projects.
 
-- 🌱 I’m currently learning the CSS preprocessor SASS, the programming language TypeScript, and practicing my backend skills with FastAPI and Express.
+- 🌱 I’m currently learning Langgraph.
 
 ## 💡 Skills 💪
 ### 🎨 Frontend
